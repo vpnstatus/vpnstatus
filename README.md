@@ -1,16 +1,31 @@
-## Hi there 👋
+# VPN Status - Мониторинг доступности VPN в России 2026 🛡️
 
-<!--
-**vpnstatus/vpnstatus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я автор и ведущий разработчик проекта **[VPN Status](https://vpnstatus.online)**. Это независимый социальный сервис, который помогает пользователям находить рабочие способы обхода блокировок и проверять доступность протоколов связи в реальном времени.
 
-Here are some ideas to get you started:
+## 🔗 Основные ресурсы проекта:
+* **Официальный сайт:** [https://vpnstatus.online](https://vpnstatus.online)
+* **Зеркало проекта:** [https://vpn-status.online](https://vpnstatus.online)
+* **Telegram-канал:** [@vpn_status](https://t.me/vpn_status)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 О проекте VPN Статус
+
+Проект специализируется на анализе сетевой связности и работе протоколов **VLESS, Reality, Shadowsocks и AmneziaWG** у крупнейших российских провайдеров. 
+
+### Популярные разделы мониторинга:
+* 📊 **[Рейтинг рабочих VPN 2026](https://vpnstatus.online/category/best-2026)** — народный топ на основе живых голосов.
+* 🆓 **[Бесплатные VPN для России](https://vpnstatus.online/category/free)** — проверенные сервисы без абонентской платы.
+* 📺 **[VPN для YouTube и соцсетей](https://vpnstatus.online/vpn-for/youtube)** — решения для обхода замедлений и ограничений.
+* 🎮 **[Игровые VPN с низким пингом](https://vpnstatus.online/vpn-for/roblox)** — для комфортной игры в Roblox, Steam и на консолях.
+
+### Проверка по провайдерам:
+Мы агрегируем данные о доступности для абонентов:
+**[МТС](https://vpnstatus.online/providers/mob-mts)** • **[Ростелеком](https://vpnstatus.online/providers/home-rostelecom)** • **[Билайн](https://vpnstatus.online/providers/mob-beeline)** • **[Мегафон](https://vpnstatus.online/providers/mob-megafon)** • **[Tele2](https://vpnstatus.online/providers/mob-t2)** • **[Дом.ru](https://vpnstatus.online/providers)**
+
+---
+
+*Если вы разработчик и хотите помочь с тестами или аналитикой — пишите в [контакты](https://vpnstatus.online/contact).*
+
+---
+**Метки:** #VPN2026 #VLESS #RealityVPN #Роскомнадзор #Мониторинг #Блокировки #VPNStatus
