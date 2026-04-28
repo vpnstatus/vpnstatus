@@ -19,9 +19,12 @@
 * 📺 **[VPN для YouTube и соцсетей](https://vpnstatus.online/vpn-for/youtube)** — решения для обхода замедлений и ограничений.
 * 🎮 **[Игровые VPN с низким пингом](https://vpnstatus.online/vpn-for/roblox)** — для комфортной игры в Roblox, Steam и на консолях.
 
-### Проверка по провайдерам:
+### Проверка по провайдерам (Статус 200 OK):
 Мы агрегируем данные о доступности для абонентов:
-**[МТС](https://vpnstatus.online/providers/mob-mts)** • **[Ростелеком](https://vpnstatus.online/providers/home-rostelecom)** • **[Билайн](https://vpnstatus.online/providers/mob-beeline)** • **[Мегафон](https://vpnstatus.online/providers/mob-megafon)** • **[Tele2](https://vpnstatus.online/providers/mob-t2)** • **[Дом.ru](https://vpnstatus.online/providers)**
+* **Мобильные:** [МТС](https://vpnstatus.online/providers/mts) • [МегаФон](https://vpnstatus.online/providers/megafon) • [Билайн](https://vpnstatus.online/providers/beeline) • [Tele2](https://vpnstatus.online/providers/t2)
+* **Домашние:** [Ростелеком](https://vpnstatus.online/providers/rostelecom) • [Дом.ru](https://vpnstatus.online/providers/dom-ru) • [МТС Home](https://vpnstatus.online/providers/mts-home) • [Билайн Дом](https://vpnstatus.online/providers/beeline-home) • [МегаФон Дом](https://vpnstatus.online/providers/megafon-home)
+
+👉 **[Посмотреть всех провайдеров](https://vpnstatus.online/providers)**
 
 ---
 
